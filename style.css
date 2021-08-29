@@ -5,3 +5,10 @@
   --dark-grey: #6b7280;
   --off-white: #f3f4f6;
 }
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0px auto;
+  max-width: 85%;
+  width: 100%;
+}

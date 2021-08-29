@@ -12,3 +12,7 @@ body {
   max-width: 85%;
   width: 100%;
 }
+
+hr {
+  margin: 2rem 0;
+}

@@ -46,6 +46,9 @@ I have build it while learning web dev with [neoGcamp](https://neog.camp/)
 
 ## Section
 
+- white
+- off-white
+
 ## Footer
 
 - heading

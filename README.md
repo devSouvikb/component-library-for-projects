@@ -6,12 +6,15 @@ I have build it while learning web dev with [neoGcamp](https://neog.camp/)
 
 ---
 
-## Components:
-
-### Brands colors:
+## Brands colors:
 
 - Primary color
+- Dark-grey color
+- Off-white color
 
-- Dark-grey
+## Typography:
 
-- Off-white
+- h1
+- h2
+- text
+- text-sm

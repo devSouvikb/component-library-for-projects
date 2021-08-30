@@ -6,15 +6,47 @@ I have build it while learning web dev with [neoGcamp](https://neog.camp/)
 
 ---
 
-## Brands colors:
+## Brands colors
 
 - Primary color
 - Dark-grey color
 - Off-white color
 
-## Typography:
+## Typography
 
 - h1
 - h2
 - text
-- text-sm
+- text small
+
+## Container
+
+- fluid container
+- center container
+
+## Link
+
+- primary link
+- secondary link
+
+## List
+
+- unordered list
+- ordered list
+
+## Nav
+
+- heading
+- nav link
+
+## Header
+
+- image
+- heading
+
+## Section
+
+## Footer
+
+- heading
+- link
